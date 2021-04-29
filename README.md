@@ -1,2 +1,2 @@
 # Fancy-Slider
-# live-link:
+# live-link: https://ahadhossainaiman.github.io/Fancy-Slider/
